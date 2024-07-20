@@ -1,7 +1,9 @@
 JWT Token nedir? 
+
 JWT (JSON Web Token), veri transferini güvenli bir şekilde sağlamak ve kullanıcının bilgilerini doğrulamak için kullanılan, JSON formatındaki bir standarttır.
 
 JWT Yapısı nasıldır?
+
 JWT’ler, header (başlık), payload (yük) ve signature (imza) olmak üzere üç bileşenden oluşur.
 
 ![jwtio-encoding-example](https://github.com/user-attachments/assets/b98bccce-d35b-4b9a-9034-bfb54cda540d)
